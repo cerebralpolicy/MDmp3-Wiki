@@ -1,7 +1,9 @@
-title: Just the Docs Template
+title: MDmp3 Wiki
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 color_scheme: mdmp3
+
+gems: [jekyll-spotify]
 
 url: https://cerebralpolicy.github.io/MDmp3-Wiki/
 
