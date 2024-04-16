@@ -6,7 +6,7 @@
         {% if pair.col > 4 and pair.col_last == false %}
         {% continue %}
         {% else %}
-        <th>{{ pair[0].capitalize() }}</th>
+        <th>{{ pair[0] | capitalize }}</th>
         {% endif %}
         {% endfor %}
     </tr>
@@ -16,9 +16,9 @@
     {% if pair.col > 4 and pair.col_last == false %}
     {% continue %}
     {% elsif pair.col_last %}
-    {% assign songID = "3iEQCnKssH7Jz8iKsjkTpl" -%}
-    {% assign songLink = "https://open.spotify.com/embed/track/" | append: songID -%}
-    <iframe style="border-radius:12px" src="{{songLink}}?utm_source=generator&theme=0" width="50%" height="96" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    {% assign songID = {{ pair[1] }} -%}
+    {% assign songLink = "https://open.spotify.com/embed/track/" | append: songID | append: "?utm_source=generator&theme=0"-%}
+    <iframe style="border-radius:12px" src={{songLink}} width="50%" height="96" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     {% else %}
     {{ pair[1] }}
     {% endif %}
