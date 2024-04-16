@@ -2,9 +2,9 @@
 {%- for row in site.data.tracklist -%}
 {%- if forloop.first -%}
 {%-assign artists = artists-%}
-{%-assign artists = artists | append: row["Artist"] %}
+{%-assign artists = artists | append: row["artist"] %}
 {%-endif-%}
-{%-assign artists = artists | append: ', '| append: row["Artist"] %}
+{%-assign artists = artists | append: ', '| append: row["artist"] %}
 {%- endfor %}
 {%- assign artists_arr = artists | split: ', ' %}
 {%- assign unique_artists = artists_arr | uniq | join: ', ' %}
@@ -12,20 +12,20 @@
 
 {% for artist in artists | sort: artist%}
 <h2>{{artist}}</h2>
-{% assign thisBand = site.data.tracklist | sort:"Name"| sort: "Year" | where: "Artist", artist%}
+{% assign thisBand = site.data.tracklist | sort:"name"| sort: "year" | where: "artist", artist%}
 <table>
     <tr>
         <th>Name</th>
         <th>Album</th>
         <th>Year</th>
-        <th>Spotify</th>
+        <th>SpotifyID</th>
     </tr>
     {%- for row in thisBand%}
     <tr>
         {%- for pair in row  -%}
-        {% if pair[0] != "Artist" and pair[0] != "Battle" and pair[0] != "Exploration" and pair[0] != "Boss" and pair[0] != "Menu" and pair[0] != "Special" %}
+        {% if pair[0] != "artist" and pair[0] != "battle" and pair[0] != "exploration" and pair[0] != "boss" and pair[0] != "menu" and pair[0] != "special" %}
         <td>
-            {%- if pair[0] == "SpotifyID" -%}
+            {%- if pair[0] == "spotifyID" -%}
             {%- assign songID = pair[1] -%}
             {%- assign songLink = "https://open.spotify.com/embed/track/" | append: songID | append: "?utm_source=generator&theme=0" -%}
             <iframe style="border-radius:12px" src="{{songLink}}" width="50%" height="96" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
