@@ -6,3 +6,6 @@ url: https://cerebralpolicy.github.io/MDmp3-Wiki/
 
 aux_links:
   Template Repository: https://github.com/cerebralpolicy/MDmp3-Wiki
+
+plugins:
+  - jekyll-default-layout
