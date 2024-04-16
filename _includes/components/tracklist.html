@@ -1,27 +1,42 @@
-﻿<table>
-    {% for row in site.data.tracklist %}
-    {% if forloop.first %}
-    <tr>
-        {% for pair in row %}
-        {% if pair.col > 4 and pair.col_last == false %}
-        {% continue %}
-        {% else %}
-        <th>{{ pair[0] | capitalize }}</th>
-        {% endif %}
-        {% endfor %}
-    </tr>
-    {% endif %}
+﻿{%- assign artists = "" %}
+{%- for row in data -%}
+{%- if forloop.first -%}
+{%-assign artists = artists-%}
+{%-assign artists = artists | append: row["Artist"] %}
+{%-endif-%}
+{%-assign artists = artists | append: ', '| append: row["Artist"] %}
+{%- endfor %}
+{%- assign artists_arr = artists | split: ', ' %}
+{%- assign unique_artists = artists_arr | uniq | join: ', ' %}
+{%- assign artists = unique_artists | split: ', ' -%}
 
-    {% tablerow pair in row %}
-    {% if pair.col > 4 and pair.col_last == false %}
-    {% continue %}
-    {% elsif pair.col_last %}
-    {% assign songID = {{ pair[1] }} -%}
-    {% assign songLink = "https://open.spotify.com/embed/track/" | append: songID | append: "?utm_source=generator&theme=0"-%}
-    <iframe style="border-radius:12px" src={{songLink}} width="50%" height="96" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    {% else %}
-    {{ pair[1] }}
-    {% endif %}
-    {% endtablerow %}
-    {% endfor %}
-</table>
+{% for artist in artists | sort: artist%}
+<H2>{{artist}}<h2>
+        {% assign thisBand = data | sort:"Name"| sort: "Year" | where: "Artist", artist%}
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Album</th>
+                <th>Year</th>
+                <th>Spotify</th>
+            </tr>
+            {%- for row in thisBand%}
+            <tr>
+                {%- for pair in row  -%}
+                {% if pair[0] != "Artist" and pair[0] != "Battle" and pair[0] != "Exploration" and pair[0] != "Boss" and pair[0] != "Menu" and pair[0] != "Special" %}
+                <td>
+                    {%- if pair[0] == "SpotifyID" -%}
+                    {%- assign songID = pair[1] -%}
+                    {%- assign songLink = "https://open.spotify.com/embed/track/" | append: songID | append: "?utm_source=generator&theme=0" -%}
+                    <iframe style="border-radius:12px" src="{{songLink}}" width="50%" height="96" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                    {%- else -%}
+                    {{ pair[1] -}}
+                    {% endif -%}
+                </td>
+                {%- else -%}
+                {%- endif -%}
+                {%- endfor %}
+            </tr>
+            {% endfor %}
+        </table>
+        {% endfor %}
