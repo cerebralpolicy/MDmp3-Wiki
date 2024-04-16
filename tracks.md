@@ -4,15 +4,19 @@ nav_order: 2
 layout: page
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+## WESTERN
+### 10 Years
+|       Song       		|       Album       	| Year | Context |
+|-----------------------|-----------------------|------|---------|
+| Actions & Motives		| *Division*	 			| 2008 |General
+| All Your Lies    		| ---		   	       	| --- | General, Menu
+| Cast It Out      		| *The Autumn Effect* 	| 2005 |General
+| Chasing The Rapture	| *Feeding The Wolves*	| 2010 | ---
+| Fix Me    			| ---	   	      		| --- | ---
+| Half Life    			| *The Autumn Effect*	| 2005 | ---
+| Paralyzing Kings    	| ---	   	       		| --- | ---
+| All Your Lies    		| ---	   	       		| 2004[^1] | Menu
 
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[^1] Uses the recording off of *Feeding The Wolves*
