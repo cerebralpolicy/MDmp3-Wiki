@@ -1,7 +1,7 @@
 ---
 title: Tracks
 nav_order: 2
-layout: page
+layout: tracks
 ---
 
 ## WESTERN
