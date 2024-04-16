@@ -3,13 +3,24 @@
     {% if forloop.first %}
     <tr>
         {% for pair in row %}
-        <th>{{ pair[0] }}</th>
+        {% if pair.col > 4 and pair.col_last == false %}
+        {% continue %}
+        {% else %}
+        <th>{{ pair[0].capitalize() }}</th>
+        {% endif %}
         {% endfor %}
     </tr>
     {% endif %}
 
     {% tablerow pair in row %}
+    {% if pair.col > 4 and pair.col_last == false %}
+    {% continue %}
+    {% elsif pair.col_last %}
+    {% assign songID = "3iEQCnKssH7Jz8iKsjkTpl" -%}
+    {% assign songLink = "https://open.spotify.com/embed/track/" | append: songID -%}
+    <iframe style="border-radius:12px" src="{{songLink}}?utm_source=generator&theme=0" width="50%" height="96" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    {% else %}
     {{ pair[1] }}
-    {% endtablerow %}
+    {% endif %}
     {% endfor %}
 </table>

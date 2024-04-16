@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "sissel.shopify-liquid",
+    "html.format.contentUnformatted": "",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    }
+}
