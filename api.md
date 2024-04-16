@@ -1,7 +1,7 @@
 ﻿---
 title: API
-layout: page
 nav_order: 1
+layout: page
 ---
 
 API Placeholder
