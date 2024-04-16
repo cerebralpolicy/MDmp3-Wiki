@@ -1,5 +1,6 @@
-﻿{%- assign artists = "" %}
-{%- for row in data -%}
+﻿{% # get unique artists %}
+{%- assign artists = "" %}
+{%- for row in site.data.tracklist -%}
 {%- if forloop.first -%}
 {%-assign artists = artists-%}
 {%-assign artists = artists | append: row["Artist"] %}
