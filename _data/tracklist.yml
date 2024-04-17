@@ -638,13 +638,13 @@
    special: FALSE
    menu: FALSE
    spotifyID: 5egqKwgK5r5rvGD1LrtR7J
--  track: Dissolved Girl -emastered 2019
-   album: Mezzanine (Deluxe)
+-  track: Dissolved Girl
+   album: Mezzanine
    artist: Massive Attack
    year: 1998
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
+   battle: FALSE
+   exploration: FALSE
+   boss: TRUE
    special: FALSE
    menu: FALSE
    spotifyID: 31R0X48zRfBUsrD8GKHiab
@@ -734,19 +734,19 @@
    year: 1995
    battle: FALSE
    exploration: FALSE
-   boss: FALSE
+   boss: TRUE
    special: FALSE
-   menu: TRUE
+   menu: FALSE
    spotifyID: 7bX9yVyhUC8M1Y3m8QCTj9
--  track: Clubbed to Death -urayamino Variation
+-  track: Clubbed to Death -Kurayamino Variation
    album: Furious Angels
    artist: Rob Dougan
    year: 1995
    battle: FALSE
    exploration: FALSE
-   boss: FALSE
+   boss: TRUE
    special: FALSE
-   menu: TRUE
+   menu: FALSE
    spotifyID: 0vSVDF2fHaxL2L9eEmRdAK
 -  track: I Keep Secrets Safe
    album: In Search of Solid Ground
