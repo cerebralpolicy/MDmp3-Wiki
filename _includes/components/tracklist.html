@@ -12,7 +12,7 @@
 
 {% for artist in artists | sort: artist%}
 {%- assign thishref = artist -%}
-<h2 id="{{thishref}}">{{artist}}</h2>
+<h2 id="#{{thishref}}">{{artist}}</h2>
 {% assign thisBand = site.data.tracklist | sort:"name"| sort: "year" | where: "artist", artist%}
 <table>
     <tr>
