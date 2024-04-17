@@ -11,14 +11,15 @@
 {%- assign artists = unique_artists | split: ', ' -%}
 
 {% for artist in artists | sort: artist%}
-<h2>{{artist}}</h2>
+{%- assign thishref = artist -%}
+<h2><a href="{{thishref}}">{{artist}}</a></h2>
 {% assign thisBand = site.data.tracklist | sort:"name"| sort: "year" | where: "artist", artist%}
 <table>
     <tr>
         <th style="width: 20%;">Name</th>
-        <th style="width: 20%;">Album</th>
-        <th style="width: 8%;">Year</th>
-        <th style="width: 40%;">Spotify</th>
+        <th style="width: 24%;">Album</th>
+        <th style="width: 4%;">Year</th>
+        <th style="width: 35%;">Spotify</th>
         <th>Contexts</th>
     </tr>
     {%- for row in thisBand%}
