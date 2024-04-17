@@ -36,9 +36,9 @@
             {% endif -%}
         </td>
         {%- else -%}
-        {%- assign ico = "assets/context-icons/" | append: pair[0] | append: ".svg" -%}
         {%- assign alt-txt = pair[0] | capitalize -%}
-        {%- assign context-ico = "<img src=" | append: '"assets/context-icons/' | append: pair[0] | append: '"".svg" width: 25% height: 25% alt:"' | append: pair[0] | append: '"/>' -%}
+        {%- assign ico = '"assets/context-icons/' | append: alt-txt | append: '.svg"' -%}
+        {%- assign context-ico = "<img src=" | append: ico | append: ' width: 25% height: 25% alt:"' | append: alt-txt | append: '"/>' -%}
         {%- if pair[1] == "TRUE" -%}
         {%- assign context-icos = context-icos | append: context-ico -%}
         {%- endif -%}
