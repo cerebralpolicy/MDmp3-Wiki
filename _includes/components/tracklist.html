@@ -15,12 +15,14 @@
 {% assign thisBand = site.data.tracklist | sort:"name"| sort: "year" | where: "artist", artist%}
 <table>
     <tr>
-        <th>Name</th>
-        <th>Album</th>
-        <th>Year</th>
-        <th>SpotifyID</th>
+        <th style="width: 20%;">Name</th>
+        <th style="width: 20%;">Album</th>
+        <th style="width: 8%;">Year</th>
+        <th style="width: 40%;">Spotify</th>
+        <th>Contexts</th>
     </tr>
     {%- for row in thisBand%}
+    {%- assign context-icos = "" -%}
     <tr>
         {%- for pair in row  -%}
         {% if pair[0] != "artist" and pair[0] != "battle" and pair[0] != "exploration" and pair[0] != "boss" and pair[0] != "menu" and pair[0] != "special" %}
@@ -34,8 +36,15 @@
             {% endif -%}
         </td>
         {%- else -%}
+        {%- assign ico = "assets/context-icons/" | append: pair[0] | append: ".svg" -%}
+        {%- assign alt-txt = pair[0] | capitalize -%}
+        {%- assign context-ico = "<img src=" | append: '"assets/context-icons/' | append: pair[0] | append: '"".svg" width: 25% height: 25% alt:"' | append: pair[0] | append: '"/>' -%}
+        {%- if pair[1] == "TRUE" -%}
+        {%- assign context-icos = context-icos | append: context-ico -%}
+        {%- endif -%}
         {%- endif -%}
         {%- endfor %}
+        <td>{{ context-icos }}</td>
     </tr>
     {% endfor %}
 </table>
