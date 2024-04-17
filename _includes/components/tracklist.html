@@ -39,7 +39,7 @@
         {%- assign alt-txt = pair[0] | capitalize -%}
         {%- assign ico = '"assets/context-icons/' | append: alt-txt | append: '.svg"' -%}
         {%- assign context-ico = "<img src=" | append: ico | append: ' width: 25% height: 25% alt:"' | append: alt-txt | append: '"/>' -%}
-        {%- if pair[1] == "TRUE" -%}
+        {%- if pair[1] -%}
         {%- assign context-icos = context-icos | append: context-ico -%}
         {%- endif -%}
         {%- endif -%}
