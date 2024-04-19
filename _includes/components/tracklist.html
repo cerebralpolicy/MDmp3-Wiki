@@ -1,10 +1,9 @@
-﻿{%- assign flag_codes = 'https://flagcdn.com/en/codes.json' %}
-{%- assign artists = site.data.tracklist -%}
+﻿{%- assign artists = site.data.tracklist -%}
 
 {% for artist in artists | sort: artist%}
-{%- for iso_code in flag_codes -%}
-{%- if iso_code[1] == artist.origin -%}
-{%- assign flagURL = '"https://flagcdn.com/' | append: iso_code[0] | append: '.svg"' -%}
+{%- for pair in site.data.flagcodes -%}
+{%- if pair[1] == artist.origin -%}
+{%- assign flagURL = '"https://flagcdn.com/' | append: pair[0] | append: '.svg"' -%}
 {%- continue -%}
 {%- endif -%}
 <h2 id="#{{artist}}">{{artist}}</h2>
