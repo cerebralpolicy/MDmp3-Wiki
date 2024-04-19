@@ -1,6 +1,6 @@
 ﻿
 
-10 Years: 
+-  artist: 10 Years
    origin: us
    website:
    genre:
@@ -96,7 +96,7 @@
       special: FALSE
       menu: FALSE
       spotifyID: 2EDYYDNCd9sdXw3xNLRIYi
-Adema:
+-  artist: Adema
    origin: us
    website:
    genre:
@@ -152,7 +152,7 @@ Adema:
       special: FALSE
       menu: FALSE
       spotifyID: 7f7daGXeo92qbkbhfRFqj7
-ASHES dIVIDE:
+-  artist: ASHES dIVIDE
    origin: us
    website:
    genre:
@@ -178,7 +178,7 @@ ASHES dIVIDE:
       special: FALSE
       menu: TRUE
       spotifyID: 7vBnxg3gjyCC0HFdnBET25
-Chevelle:
+-  artist: Chevelle
    origin: us
    website:
    genre:
@@ -284,7 +284,7 @@ Chevelle:
       special: FALSE
       menu: FALSE
       spotifyID: 6FFxKLoyNPgHggQV11MSDZ
-coldrain:
+-  artist: coldrain
    origin: jp
    website:
    genre:
@@ -370,7 +370,7 @@ coldrain:
       special: FALSE
       menu: FALSE
       spotifyID: 2Nr7VrXFznjYcyqGr9PpXI
-Deftones:
+-  artist: Deftones
    origin: us
    website:
    genre:
@@ -416,7 +416,7 @@ Deftones:
       special: FALSE
       menu: FALSE
       spotifyID: 27gb40S6AIpP5lrhLxlfXj
-Flyleaf:
+-  artist: Flyleaf
    origin: us
    website:
    genre:
@@ -442,7 +442,7 @@ Flyleaf:
       special: FALSE
       menu: FALSE
       spotifyID: 3FP8A246XpuafFofRhDlWG
-Girugamesh:
+-  artist: Girugamesh
    origin: jp
    website:
    genre:
@@ -528,7 +528,7 @@ Girugamesh:
       special: FALSE
       menu: FALSE
       spotifyID: 3KtmQBRZUVEzH8epiGmjzv
-Hurt:
+-  artist: Hurt
    origin: us
    website:
    genre:
@@ -564,7 +564,7 @@ Hurt:
       special: FALSE
       menu: FALSE
       spotifyID: 5ZcEbVPW0s6de8k28hm5cw
-Institute:
+-  artist: Institute
    origin: uk
    website:
    genre:
@@ -600,7 +600,7 @@ Institute:
       special: FALSE
       menu: FALSE
       spotifyID: 1NdHmxKuAWbTeP5iK6aL7j
-Linkin Park:
+-  artist: Linkin Park
    origin: us
    website:
    genre:
@@ -696,7 +696,7 @@ Linkin Park:
       special: FALSE
       menu: FALSE
       spotifyID: 5egqKwgK5r5rvGD1LrtR7J
-Massive Attack:
+-  artist: Massive Attack
    origin: uk
    website:
    genre:
@@ -712,7 +712,7 @@ Massive Attack:
       special: FALSE
       menu: FALSE
       spotifyID: 31R0X48zRfBUsrD8GKHiab
-Papa Roach:
+-  artist: Papa Roach
    origin: us
    website:
    genre:
@@ -768,7 +768,7 @@ Papa Roach:
       special: FALSE
       menu: FALSE
       spotifyID: 1eRgyfyizDWISeS99kwLNC
-Revis:
+-  artist: Revis
    origin: us
    website:
    genre:
@@ -804,7 +804,7 @@ Revis:
       special: FALSE
       menu: FALSE
       spotifyID: 705O7Jky1mutg2Il7NSO2o
-Rob Dougan:
+-  artist: Rob Dougan
    origin: au
    website:
    genre:
@@ -830,7 +830,7 @@ Rob Dougan:
       special: FALSE
       menu: FALSE
       spotifyID: 0vSVDF2fHaxL2L9eEmRdAK
-Saosin:
+-  artist: Saosin
    origin: us
    website:
    genre:
@@ -876,7 +876,7 @@ Saosin:
       special: FALSE
       menu: FALSE
       spotifyID: 2fsYDaUa76sRjlHxqh1sdx
-The Buttefly Effect:
+-  artist: The Buttefly Effect
    origin: au
    website:
    genre:
@@ -922,7 +922,7 @@ The Buttefly Effect:
       special: FALSE
       menu: FALSE
       spotifyID: 16wtlsDZvPSPx9mXWVVdYq
-The Mayan Factor:
+-  artist: The Mayan Factor
    origin: us
    website:
    genre:
@@ -948,7 +948,7 @@ The Mayan Factor:
       special: TRUE
       menu: FALSE
       spotifyID: 6Z21CFIX0a857QBS21BJOE
-Three Days Grace:
+-  artist: Three Days Grace
    origin: ca
    website:
    genre:
