@@ -1,9 +1,20 @@
 ﻿{%- assign artists = site.data.tracklist -%}
+{%- assign footnotes = 0 -%}
 {% for row in artists | sort: row.artist%}
 {%- assign flagURL = '"https://flagcdn.com/' | append: row.origin | append: '.svg"' -%}
-<h2 id="{{row.artist}}">{{row.artist}}</h2><img style="float:inline-end;" src={{flagURL}} width="96px" />
-<hr>
-<table>
+
+<div style="display:flex; align-items:center; width: 100%;">
+    <h2 style="float:left;" id="{{row.artist}}">{{row.artist}}</h2>
+    <div class="artistFlag">
+        <div style="width:64px; height:32px; background: black;clip-path: polygon(12% 16%, 100% 16%, 88% 84%, 0 84%);">
+            <div style="width:100%; height:100%; clip-path: polygon(14% 20%, 98% 20%, 88% 80%, 2% 80%); text-align:center; background: white"><img style="clip-path: inherit;" height="100%" src={{flagURL}}>
+            </div>
+        </div>
+    </div>
+
+</div>
+<br>
+<table style="">
     <tr>
         <th style="width: 20%;">Name</th>
         <th style="width: 24%;">Album</th>
