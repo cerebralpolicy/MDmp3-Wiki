@@ -3,12 +3,14 @@
 {% for row in artists | sort: row.artist%}
 {%- assign flagURL = '"https://flagcdn.com/' | append: row.origin | append: '.svg"' -%}
 
-<hr>
 <div style="display:flex; align-items:center; width: 100%; height:32px">
-    <h2 style="display: flex; float:left; line-height: 32px" id="{{row.artist}}">
-        <div style="width:64px; height:32px; background: black;clip-path: polygon(12% 16%, 100% 16%, 88% 84%, 0 84%);">
-            <div style="width:100%; height:100%; clip-path: polygon(14% 20%, 98% 20%, 88% 80%, 2% 80%); text-align:center; background: white"><img style="clip-path: inherit;" height="100%" src={{flagURL}}></div>
-        </div>{{row.artist}}
+    <div style="margin-right: 20; align-self:auto">
+        <div style="width:96px; height:24px; background: #000;clip-path: polygon(20% 0%, 100% 0%, 80% 100%, 0% 100%);">
+            <div style="display:flex; width:100%; height:100%; clip-path: polygon(22.5% 8%, 95% 8%, 77.5% 92%, 5% 92%); align-items:center;"><img width="100%" src="https://flagcdn.com/ca.svg"></div>
+        </div>
+    </div>
+    <h2 style="display: flex; align-self:auto; padding-bottom: 4px" id="{{row.artist}}">
+        <div style="align-self: flex-start;">{{row.artist}}</div>
     </h2>
 </div>
 <hr>
@@ -27,10 +29,10 @@
         <td>{{song.track}}</td>
         <td>{{song.album}}</td>
         <td>{{song.year}}</td>
-        <td>
+        <td style="align-items: center;">
             {%- assign songID = song.spotifyID -%}
             {%- assign songLink = "https://open.spotify.com/embed/track/" | append: songID | append: "?utm_source=generator&theme=0" -%}
-            <iframe style="border-radius:12px" src="{{songLink}}" width="100%" height="96" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+            <iframe style="border-radius:12px" src="{{songLink}}" width="100%" height="32" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </td>
         <td>
             {%- if song.battle == true -%}
@@ -68,4 +70,5 @@
     {%- assign context_icos = empty -%}
     {%- endfor %}
 </table>
+<hr>
 {% endfor %}
