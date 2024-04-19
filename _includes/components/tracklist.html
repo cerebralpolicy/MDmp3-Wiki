@@ -4,7 +4,7 @@
 {%- assign flagURL = '"https://flagcdn.com/' | append: artist.origin | append: '.svg"' -%}
 <h2 id="{{artist}}">{{artist}}</h2><img style="float:inline-end;" src={{flagURL}} width="96px" />
 <hr>
-{% assign thisArtistsTracks = artist.tracks | sort:"name"| sort: "year" %}
+{% assign thisArtistsTracks = artist.tracks %}
 <table>
     <tr>
         <th style="width: 20%;">Name</th>
@@ -13,11 +13,11 @@
         <th style="width: 35%;">Spotify</th>
         <th>Contexts</th>
     </tr>
-    {%- for row in thisArtistsTracks -%}
+    {%- for row in thisArtistsTracks | sort: row.track | sort: row.year -%}
     {%- assign context-icos = "" -%}
     <tr>
         {%- for pair in row  -%}
-        {% if pair[0] != "artist" and pair[0] != "battle" and pair[0] != "exploration" and pair[0] != "boss" and pair[0] != "menu" and pair[0] != "special" %}
+        {% pair[0] != "battle" and pair[0] != "exploration" and pair[0] != "boss" and pair[0] != "menu" and pair[0] != "special" %}
         <td>
             {%- if pair[0] == "spotifyID" -%}
             {%- assign songID = pair[1] -%}
@@ -27,13 +27,12 @@
             {{ pair[1] -}}
             {% endif -%}
         </td>
-        {%- elsif pair[0] != "artist" -%}
+        {%- else -%}
         {%- assign alt-txt = pair[0] | capitalize -%}
         {%- assign ico = '"assets/context-icons/' | append: alt-txt | append: '.svg"' -%}
         {%- assign context-ico = "<img src=" | append: ico | append: ' width="32px" height="32px" title="' | append: alt-txt | append: '"/>&nbsp' -%}
         {%- if pair[1] -%}
         {%- assign context-icos = context-icos | append: context-ico -%}
-        {%- else -%}
         {%- endif -%}
         {%- endif -%}
         {%- endfor %}
