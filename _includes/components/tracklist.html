@@ -4,7 +4,7 @@
 {%- assign flagURL = '"https://flagcdn.com/' | append: artist.origin | append: '.svg"' -%}
 <h2 id="{{artist}}">{{artist}}</h2><img style="float:inline-end;" src={{flagURL}} width="96px" />
 <hr>
-{% assign thisArtistsTracks = artist.track | sort:"name"| sort: "year" %}
+{% assign thisArtistsTracks = artist.tracks | sort:"name"| sort: "year" %}
 <table>
     <tr>
         <th style="width: 20%;">Name</th>
