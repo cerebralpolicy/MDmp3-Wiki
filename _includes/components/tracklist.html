@@ -6,7 +6,8 @@
 {%- assign flagURL = '"https://flagcdn.com/' | append: pair[0] | append: '.svg"' -%}
 {%- continue -%}
 {%- endif -%}
-<h2 id="#{{artist}}">{{artist}}</h2>
+{%- endfor -%}
+<h2 id="{{artist}}">{{artist}}</h2>
 <div style="align-content: end;"><img src={{flagURL}} width="96px" /></div>
 {% assign thisArtistsTracks = artist.track | sort:"name"| sort: "year" %}
 <table>
