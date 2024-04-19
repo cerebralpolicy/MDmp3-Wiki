@@ -1,19 +1,15 @@
-﻿{%- assign artists = "" %}
-{%- for row in site.data.tracklist -%}
-{%- if forloop.first -%}
-{%-assign artists = artists-%}
-{%-assign artists = artists | append: row["artist"] %}
-{%-endif-%}
-{%-assign artists = artists | append: ', '| append: row["artist"] %}
-{%- endfor %}
-{%- assign artists_arr = artists | split: ', ' %}
-{%- assign unique_artists = artists_arr | uniq | join: ', ' %}
-{%- assign artists = unique_artists | split: ', ' -%}
+﻿{%- assign flag_codes = 'https://flagcdn.com/en/codes.json' %}
+{%- assign artists = site.data.tracklist -%}
 
 {% for artist in artists | sort: artist%}
-{%- assign thishref = artist -%}
-<h2 id="#{{thishref}}">{{artist}}</h2>
-{% assign thisBand = site.data.tracklist | sort:"name"| sort: "year" | where: "artist", artist%}
+{%- for iso_code in flag_codes -%}
+{%- if iso_code[1] == artist.origin -%}
+{%- assign flagURL = '"https://flagcdn.com/' | append: iso_code[0] | append: '.svg"' -%}
+{%- continue -%}
+{%- endif -%}
+<h2 id="#{{artist}}">{{artist}}</h2>
+<div style="align-content: end;"><img src={{flagURL}} width="96px" /></div>
+{% assign thisArtistsTracks = artist.track | sort:"name"| sort: "year" %}
 <table>
     <tr>
         <th style="width: 20%;">Name</th>
@@ -22,7 +18,7 @@
         <th style="width: 35%;">Spotify</th>
         <th>Contexts</th>
     </tr>
-    {%- for row in thisBand%}
+    {%- for row in thisArtistsTracks -%}
     {%- assign context-icos = "" -%}
     <tr>
         {%- for pair in row  -%}

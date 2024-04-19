@@ -1,890 +1,996 @@
-﻿-  track: Actions & Motives
-   album: Division
-   artist: 10 Years
-   year: 2008
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 2QgTdBYfwIDRy892unFoRm
--  track: All Your Lies
-   album: Division
-   artist: 10 Years
-   year: 2008
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: TRUE
-   spotifyID: 2Perdw5NdmyHJuSOzXYUTp
--  track: Cast It Out
-   album: The Autumn Effect
-   artist: 10 Years
-   year: 2005
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 4cEFi2ofPSt18FZREpZm8i
--  track: Chasing The Rapture
-   album: Feeding The Wolves
-   artist: 10 Years
-   year: 2010
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 5KnweDmP8kD4DgvWCt3ICh
--  track: Fix Me
-   album: Feeding The Wolves
-   artist: 10 Years
-   year: 2010
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 60OKW0mZiPFHVpHl3eHueg
--  track: Half Life
-   album: The Autumn Effect
-   artist: 10 Years
-   year: 2005
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 0Ep0NaS3TgEuwYEIUR6UsW
--  track: Paralyzing Kings
-   album: The Autumn Effect
-   artist: 10 Years
-   year: 2005
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 19q2AgZEvcOeqigqAGLlHP
--  track: Silhouette Of A Life
-   album: Killing All That Holds You
-   artist: 10 Years
-   year: 2004
-   battle: FALSE
-   exploration: FALSE
-   boss: FALSE
-   special: FALSE
-   menu: TRUE
-   spotifyID: 3QFt61IkMjBd1kcftlMDVG
--  track: The Recipe
-   album: The Autumn Effect
-   artist: 10 Years
-   year: 2005
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3OBVgbVzoq5hdCoyHgBDtH
--  track: The Wicked Ones
-   album: Feeding The Wolves
-   artist: 10 Years
-   year: 2010
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 2EDYYDNCd9sdXw3xNLRIYi
--  track: Co-pendent
-   album: Unstable
-   artist: Adema
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 0YOvJ7UbIzNDJumXmvCQJf
--  track: Giving In
-   album: Adema
-   artist: Adema
-   year: 2001
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 1OGFtaUgHAQjtSk7mhDwr9
--  track: Unstable
-   album: Unstable
-   artist: Adema
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 4k9eaPE4yazz330ZFIzpWT
--  track: Barricades In Time
-   album: Planets
-   artist: Adema
-   year: 2005
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 2CM3D31ioFSBnF9jmEHvM6
--  track: Refusing Consciousness
-   album: Planets
-   artist: Adema
-   year: 2005
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 7f7daGXeo92qbkbhfRFqj7
--  track: Forever Can Be
-   album: Keep Telling Myself It's Alright
-   artist: ASHES dIVIDE
-   year: 2008
-   battle: FALSE
-   exploration: FALSE
-   boss: FALSE
-   special: FALSE
-   menu: TRUE
-   spotifyID: 5m6SXnKJ4MDGAqAmeB4uMw
--  track: Sword
-   album: Keep Telling Myself It's Alright
-   artist: ASHES dIVIDE
-   year: 2008
-   battle: FALSE
-   exploration: FALSE
-   boss: TRUE
-   special: FALSE
-   menu: TRUE
-   spotifyID: 7vBnxg3gjyCC0HFdnBET25
--  track: Another Know It All
-   album: This Type Of Thinking (Could Do Us In)
-   artist: Chevelle
-   year: 2004
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 1y2AbBO03UMLucF65eZl31
--  track: Antisaint
-   album: Vena Sera
-   artist: Chevelle
-   year: 2007
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 4eZPq8FQgqsfF3Z1ItuHon
--  track: Breach Birth
-   album: This Type Of Thinking (Could Do Us In)
-   artist: Chevelle
-   year: 2004
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3c5i1PV78s4Mgz5DPvg5p8
--  track: Don't Fake This
-   album: Wonder What's Next
-   artist: Chevelle
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 2Bcvh4zypRuH0cCTQzuV6B
--  track: Grab Thy Hand
-   album: Wonder What's Next
-   artist: Chevelle
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 42pNX8mZefuDKb06aFFJ79
--  track: Forfeit
-   album: Wonder What's Next
-   artist: Chevelle
-   year: 2003
-   battle: FALSE
-   exploration: FALSE
-   boss: TRUE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 6ptcVVRn97eAKqUy6kUVK5
--  track: Get Some
-   album: This Type Of Thinking (Could Do Us In)
-   artist: Chevelle
-   year: 2004
-   battle: FALSE
-   exploration: FALSE
-   boss: TRUE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3yvsHpMQf3C6xZGq7bu9c6
--  track: Midnight to Midnight
-   album: Vena Sera
-   artist: Chevelle
-   year: 2007
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 67hoVyEfp8nyM9q0saRWt3
--  track: The Fad
-   album: Vena Sera
-   artist: Chevelle
-   year: 2007
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3booZW0BKQ8En18KSxsZPr
--  track: This Circus
-   album: Sci- Crimes
-   artist: Chevelle
-   year: 2009
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 6FFxKLoyNPgHggQV11MSDZ
--  track: Final destination
-   album: Final Destination
-   artist: coldrain
-   year: 2009
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 6tsyEUUDyceiLUMGanxiYe
--  track: Counterfeits & lies
-   album: Final Destination
-   artist: coldrain
-   year: 2009
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 1DmurC9BgjTdYkWoEFd5r3
--  track: Someday
-   album: Final Destination
-   artist: coldrain
-   year: 2009
-   battle: FALSE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 37BtkGUdxhCMHCloXOJ3VC
--  track: Just tonight
-   album: Final Destination
-   artist: coldrain
-   year: 2009
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 0uMrS2LefybqkczNzNiYl4
--  track: Doors
-   album: Final Destination
-   artist: coldrain
-   year: 2009
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3nIGodnhK2OaMHQqGJl0hh
--  track: Survive
-   album: Final Destination
-   artist: coldrain
-   year: 2009
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 2V8D3yDOU5jXn7ycKqBRtJ
--  track: My addiction
-   album: Final Destination
-   artist: coldrain
-   year: 2009
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 0gqPgpgK2sf7sMHarllAxV
--  track: Painting
-   album: Final Destination
-   artist: coldrain
-   year: 2009
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 2Nr7VrXFznjYcyqGr9PpXI
--  track: Minerva
-   album: Deftones
-   artist: Deftones
-   year: 2003
-   battle: FALSE
-   exploration: FALSE
-   boss: FALSE
-   special: FALSE
-   menu: TRUE
-   spotifyID: 1gzWd0ILFaCoHUfQSkCIvl
--  track: Deathblow
-   album: Deftones
-   artist: Deftones
-   year: 2003
-   battle: FALSE
-   exploration: FALSE
-   boss: FALSE
-   special: FALSE
-   menu: TRUE
-   spotifyID: 09QuitJuAP87RoBSpiCXPs
--  track: Knife Prty
-   album: White Pony
-   artist: Deftones
-   year: 2000
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 42Kv1RoTAm09FeytxiuZIB
--  track: Anniversary of an Uninteresting Event
-   album: Deftones
-   artist: Deftones
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 27gb40S6AIpP5lrhLxlfXj
--  track: All Around Me
-   album: Flyleaf
-   artist: Flyleaf
-   year: 2006
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 1zN6ynJG4PdR61YWv4PQ3Y
--  track: I'm So Sick
-   album: Flyleaf
-   artist: Flyleaf
-   year: 2006
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3FP8A246XpuafFofRhDlWG
--  track: Break Down
-   album: MUSIC
-   artist: Girugamesh
-   year: 2008
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3Im6VlOuFiCFTeL69i5u6v
--  track: evolution
-   album: MUSIC
-   artist: Girugamesh
-   year: 2008
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 1ZsuyL5rpqv9axbwItczz2
--  track: Asking why
-   album: MUSIC
-   artist: Girugamesh
-   year: 2008
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 1Noarsp6LWvZygnIotDvzO
--  track: Barricade
-   album: Girugamesh
-   artist: Girugamesh
-   year: 2007
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 28EF022nQGfzVW4eGCxwHe
--  track: syoujo A
-   album: Girugamesh
-   artist: Girugamesh
-   year: 2007
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3vCGZ4llBfENMX9z32Cz6M
--  track: Domino
-   album: Girugamesh
-   artist: Girugamesh
-   year: 2007
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 6xmUTnGKFNUli7uCC03KfK
--  track: Aimai na mikaku
-   album: 13's reborn
-   artist: Girugamesh
-   year: 2006
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 6BSPRkqHftjY0oGdw3YEic
--  track: robust conviction
-   album: 13's reborn
-   artist: Girugamesh
-   year: 2006
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3KtmQBRZUVEzH8epiGmjzv
--  track: Unkind
-   album: Vol. 1
-   artist: Hurt
-   year: 2006
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 7kppYKM3qUkD8BNTQu5eE1
--  track: Ten Ton Brick
-   album: Vol. II
-   artist: Hurt
-   year: 2007
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 4DPvNH37oJcv3LdMJMZGUi
--  track: Loded
-   album: Vol. II
-   artist: Hurt
-   year: 2007
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 5ZcEbVPW0s6de8k28hm5cw
--  track: Bulletproof Skin
-   album: Distort Yourself
-   artist: Institute
-   year: 2005
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 1E5ftzZvJLOICYQ0oYDHID
--  track: When Animals Attack
-   album: Distort Yourself
-   artist: Institute
-   year: 2005
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3A1ktNp1AeUSefB6qfQnpQ
--  track: The Art of Walking (Bonus)
-   album: Distort Yourself
-   artist: Institute
-   year: 2005
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 1NdHmxKuAWbTeP5iK6aL7j
--  track: Cure for the Itch
-   album: Hybrid Theory
-   artist: Linkin Park
-   year: 2000
-   battle: FALSE
-   exploration: FALSE
-   boss: FALSE
-   special: TRUE
-   menu: FALSE
-   spotifyID: 3rpnfXSECgapxeGeRgUYqy
--  track: Don't Stay
-   album: Meteora
-   artist: Linkin Park
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 27gUeiai56GKF6TxvmPJut
--  track: Figure.09
-   album: Meteora
-   artist: Linkin Park
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3yE7LC2ZyNWsLRSXHb0J06
--  track: Hit the Floor
-   album: Meteora
-   artist: Linkin Park
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 5VYbLzAplnqPaGNpcf8qhZ
--  track: Lying from You
-   album: Meteora
-   artist: Linkin Park
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3BmjRmFTESgWZLPSVGp8aG
--  track: Nobody's Listening
-   album: Meteora
-   artist: Linkin Park
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 6O8Fqxnk5OlOivJHklfkPZ
--  track: One Step Closer
-   album: Hybrid Theory
-   artist: Linkin Park
-   year: 2000
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3K4HG9evC7dg3N0R9cYqk4
--  track: Papercut
-   album: Hybrid Theory
-   artist: Linkin Park
-   year: 2000
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 1Vej0qeQ3ioKwpI6FUbRv1
--  track: Points of Authority
-   album: Hybrid Theory
-   artist: Linkin Park
-   year: 2000
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 5egqKwgK5r5rvGD1LrtR7J
--  track: Dissolved Girl
-   album: Mezzanine
-   artist: Massive Attack
-   year: 1998
-   battle: FALSE
-   exploration: FALSE
-   boss: TRUE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 31R0X48zRfBUsrD8GKHiab
--  track: Thrown Away/Tight Rope
-   album: Infest
-   artist: Papa Roach
-   year: 2001
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 6LKj8Fqa28diZh8n0h93f6
--  track: Getting Away With Murder
-   album: Getting Away With Murder
-   artist: Papa Roach
-   year: 2004
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 40dHZ1HyySmu9FmTINRbqM
--  track: Do Or Die
-   album: Getting Away With Murder
-   artist: Papa Roach
-   year: 2004
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 7slHVKIG1a3FtBjxPYdkVR
--  track: Life Is A Bullet
-   album: lovehatetragedy
-   artist: Papa Roach
-   year: 2002
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 5F5Gr7sgJQP2Mxfi5Ui9bR
--  track: She Loves Me Not
-   album: lovehatetragedy
-   artist: Papa Roach
-   year: 2002
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 1eRgyfyizDWISeS99kwLNC
--  track: Your Wall
-   album: Places For Breathing
-   artist: Revis
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 6KjGxORV80nXAOKAtwjNzq
--  track: Spin
-   album: Places For Breathing
-   artist: Revis
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 1UHWvH3Yew0MfvHPDZCG1K
--  track: Straight Jacket Labels
-   album: Places For Breathing
-   artist: Revis
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 705O7Jky1mutg2Il7NSO2o
--  track: Clubbed To Death 2
-   album: Furious Angels
-   artist: Rob Dougan
-   year: 1995
-   battle: FALSE
-   exploration: FALSE
-   boss: TRUE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 7bX9yVyhUC8M1Y3m8QCTj9
--  track: Clubbed to Death -Kurayamino Variation
-   album: Furious Angels
-   artist: Rob Dougan
-   year: 1995
-   battle: FALSE
-   exploration: FALSE
-   boss: TRUE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 0vSVDF2fHaxL2L9eEmRdAK
--  track: I Keep Secrets Safe
-   album: In Search of Solid Ground
-   artist: Saosin
-   year: 2009
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 2jAZg043nuMGUcdtvmEIJE
--  track: Changing
-   album: In Search of Solid Ground
-   artist: Saosin
-   year: 2009
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 4C3osHVXn7trOxSBc8AuhX
--  track: Seven Years
-   album: Translating the Name
-   artist: Saosin
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 0C71NJD4BhvPopTwI7a8KV
--  track: Translating the Name
-   album: Translating the Name
-   artist: Saosin
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 2fsYDaUa76sRjlHxqh1sdx
--  track: Reach
-   album: Imago
-   artist: The Butterfly Effect
-   year: 2006
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3g7gEBqVdZqlVusJ3lkDE5
--  track: A Slow Descent
-   album: Imago
-   artist: The Butterfly Effect
-   year: 2006
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 3iEQCnKssH7Jz8iKsjkTpl
--  track: In These Hands
-   album: Final Conversation Of Kings
-   artist: The Butterfly Effect
-   year: 2008
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 068FlMkPkrB5m4hHC9ij4S
--  track: Black Lung
-   album: The Butterfly Effect
-   artist: The Butterfly Effect
-   year: 2001
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 16wtlsDZvPSPx9mXWVVdYq
--  track: Warflower
-   album: In Lake' Ch
-   artist: The Mayan Factor
-   year: 2003
-   battle: FALSE
-   exploration: FALSE
-   boss: FALSE
-   special: TRUE
-   menu: FALSE
-   spotifyID: 5DbjH6eXl5iSuBMj0IUWvP
--  track: Hopi Elders
-   album: 44
-   artist: The Mayan Factor
-   year: 2005
-   battle: FALSE
-   exploration: FALSE
-   boss: FALSE
-   special: TRUE
-   menu: FALSE
-   spotifyID: 6Z21CFIX0a857QBS21BJOE
--  track: Burn
-   album: Three Days Grace
-   artist: Three Days Grace
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 4DmH8WEuvLOXpZ5D18XHJw
--  track: Scared
-   album: Three Days Grace
-   artist: Three Days Grace
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 0OWmBvdthZceFMOwB5EANd
--  track: Let You Down
-   album: Three Days Grace
-   artist: Three Days Grace
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 4kW5sp3Ah4hS5mkArOJSyJ
--  track: Drown
-   album: Three Days Grace
-   artist: Three Days Grace
-   year: 2003
-   battle: TRUE
-   exploration: TRUE
-   boss: FALSE
-   special: FALSE
-   menu: FALSE
-   spotifyID: 2pVyreySMezcsVq0nmsIJ6
+﻿
+
+10 Years: 
+   origin: United States
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Actions & Motives
+      album: Division
+      year: 2008
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 2QgTdBYfwIDRy892unFoRm
+   -  track: All Your Lies
+      album: Division
+      year: 2008
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: TRUE
+      spotifyID: 2Perdw5NdmyHJuSOzXYUTp
+   -  track: Cast It Out
+      album: The Autumn Effect
+      year: 2005
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 4cEFi2ofPSt18FZREpZm8i
+   -  track: Chasing The Rapture
+      album: Feeding The Wolves
+      year: 2010
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 5KnweDmP8kD4DgvWCt3ICh
+   -  track: Fix Me
+      album: Feeding The Wolves
+      year: 2010
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 60OKW0mZiPFHVpHl3eHueg
+   -  track: Half Life
+      album: The Autumn Effect
+      year: 2005
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 0Ep0NaS3TgEuwYEIUR6UsW
+   -  track: Paralyzing Kings
+      album: The Autumn Effect
+      year: 2005
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 19q2AgZEvcOeqigqAGLlHP
+   -  track: Silhouette Of A Life
+      album: Killing All That Holds You
+      year: 2004
+      battle: FALSE
+      exploration: FALSE
+      boss: FALSE
+      special: FALSE
+      menu: TRUE
+      spotifyID: 3QFt61IkMjBd1kcftlMDVG
+   -  track: The Recipe
+      album: The Autumn Effect
+      year: 2005
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3OBVgbVzoq5hdCoyHgBDtH
+   -  track: The Wicked Ones
+      album: Feeding The Wolves
+      year: 2010
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 2EDYYDNCd9sdXw3xNLRIYi
+Adema:
+   origin: United States
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Co-pendent
+      album: Unstable
+      artist: Adema
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 0YOvJ7UbIzNDJumXmvCQJf
+   -  track: Giving In
+      album: Adema
+      artist: Adema
+      year: 2001
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 1OGFtaUgHAQjtSk7mhDwr9
+   -  track: Unstable
+      album: Unstable
+      artist: Adema
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 4k9eaPE4yazz330ZFIzpWT
+   -  track: Barricades In Time
+      album: Planets
+      artist: Adema
+      year: 2005
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 2CM3D31ioFSBnF9jmEHvM6
+   -  track: Refusing Consciousness
+      album: Planets
+      artist: Adema
+      year: 2005
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 7f7daGXeo92qbkbhfRFqj7
+ASHES dIVIDE:
+   origin: United States
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Forever Can Be
+      album: Keep Telling Myself It's Alright
+      artist: ASHES dIVIDE
+      year: 2008
+      battle: FALSE
+      exploration: FALSE
+      boss: FALSE
+      special: FALSE
+      menu: TRUE
+      spotifyID: 5m6SXnKJ4MDGAqAmeB4uMw
+   -  track: Sword
+      album: Keep Telling Myself It's Alright
+      artist: ASHES dIVIDE
+      year: 2008
+      battle: FALSE
+      exploration: FALSE
+      boss: TRUE
+      special: FALSE
+      menu: TRUE
+      spotifyID: 7vBnxg3gjyCC0HFdnBET25
+Chevelle:
+   origin: United States
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Another Know It All
+      album: This Type Of Thinking (Could Do Us In)
+      artist: Chevelle
+      year: 2004
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 1y2AbBO03UMLucF65eZl31
+   -  track: Antisaint
+      album: Vena Sera
+      artist: Chevelle
+      year: 2007
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 4eZPq8FQgqsfF3Z1ItuHon
+   -  track: Breach Birth
+      album: This Type Of Thinking (Could Do Us In)
+      artist: Chevelle
+      year: 2004
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3c5i1PV78s4Mgz5DPvg5p8
+   -  track: Don't Fake This
+      album: Wonder What's Next
+      artist: Chevelle
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 2Bcvh4zypRuH0cCTQzuV6B
+   -  track: Grab Thy Hand
+      album: Wonder What's Next
+      artist: Chevelle
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 42pNX8mZefuDKb06aFFJ79
+   -  track: Forfeit
+      album: Wonder What's Next
+      artist: Chevelle
+      year: 2003
+      battle: FALSE
+      exploration: FALSE
+      boss: TRUE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 6ptcVVRn97eAKqUy6kUVK5
+   -  track: Get Some
+      album: This Type Of Thinking (Could Do Us In)
+      artist: Chevelle
+      year: 2004
+      battle: FALSE
+      exploration: FALSE
+      boss: TRUE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3yvsHpMQf3C6xZGq7bu9c6
+   -  track: Midnight to Midnight
+      album: Vena Sera
+      artist: Chevelle
+      year: 2007
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 67hoVyEfp8nyM9q0saRWt3
+   -  track: The Fad
+      album: Vena Sera
+      artist: Chevelle
+      year: 2007
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3booZW0BKQ8En18KSxsZPr
+   -  track: This Circus
+      album: Sci- Crimes
+      artist: Chevelle
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 6FFxKLoyNPgHggQV11MSDZ
+coldrain:
+   origin: Japan
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Final destination
+      album: Final Destination
+      artist: coldrain
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 6tsyEUUDyceiLUMGanxiYe
+   -  track: Counterfeits & lies
+      album: Final Destination
+      artist: coldrain
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 1DmurC9BgjTdYkWoEFd5r3
+   -  track: Someday
+      album: Final Destination
+      artist: coldrain
+      year: 2009
+      battle: FALSE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 37BtkGUdxhCMHCloXOJ3VC
+   -  track: Just tonight
+      album: Final Destination
+      artist: coldrain
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 0uMrS2LefybqkczNzNiYl4
+   -  track: Doors
+      album: Final Destination
+      artist: coldrain
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3nIGodnhK2OaMHQqGJl0hh
+   -  track: Survive
+      album: Final Destination
+      artist: coldrain
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 2V8D3yDOU5jXn7ycKqBRtJ
+   -  track: My addiction
+      album: Final Destination
+      artist: coldrain
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 0gqPgpgK2sf7sMHarllAxV
+   -  track: Painting
+      album: Final Destination
+      artist: coldrain
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 2Nr7VrXFznjYcyqGr9PpXI
+Deftones:
+   origin: United States
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Minerva
+      album: Deftones
+      artist: Deftones
+      year: 2003
+      battle: FALSE
+      exploration: FALSE
+      boss: FALSE
+      special: FALSE
+      menu: TRUE
+      spotifyID: 1gzWd0ILFaCoHUfQSkCIvl
+   -  track: Deathblow
+      album: Deftones
+      artist: Deftones
+      year: 2003
+      battle: FALSE
+      exploration: FALSE
+      boss: FALSE
+      special: FALSE
+      menu: TRUE
+      spotifyID: 09QuitJuAP87RoBSpiCXPs
+   -  track: Knife Prty
+      album: White Pony
+      artist: Deftones
+      year: 2000
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 42Kv1RoTAm09FeytxiuZIB
+   -  track: Anniversary of an Uninteresting Event
+      album: Deftones
+      artist: Deftones
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 27gb40S6AIpP5lrhLxlfXj
+Flyleaf:
+   origin: United States
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: All Around Me
+      album: Flyleaf
+      artist: Flyleaf
+      year: 2006
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 1zN6ynJG4PdR61YWv4PQ3Y
+   -  track: I'm So Sick
+      album: Flyleaf
+      artist: Flyleaf
+      year: 2006
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3FP8A246XpuafFofRhDlWG
+Girugamesh:
+   origin: Japan
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Break Down
+      album: MUSIC
+      artist: Girugamesh
+      year: 2008
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3Im6VlOuFiCFTeL69i5u6v
+   -  track: evolution
+      album: MUSIC
+      artist: Girugamesh
+      year: 2008
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 1ZsuyL5rpqv9axbwItczz2
+   -  track: Asking why
+      album: MUSIC
+      artist: Girugamesh
+      year: 2008
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 1Noarsp6LWvZygnIotDvzO
+   -  track: Barricade
+      album: Girugamesh
+      artist: Girugamesh
+      year: 2007
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 28EF022nQGfzVW4eGCxwHe
+   -  track: syoujo A
+      album: Girugamesh
+      artist: Girugamesh
+      year: 2007
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3vCGZ4llBfENMX9z32Cz6M
+   -  track: Domino
+      album: Girugamesh
+      artist: Girugamesh
+      year: 2007
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 6xmUTnGKFNUli7uCC03KfK
+   -  track: Aimai na mikaku
+      album: 13's reborn
+      artist: Girugamesh
+      year: 2006
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 6BSPRkqHftjY0oGdw3YEic
+   -  track: robust conviction
+      album: 13's reborn
+      artist: Girugamesh
+      year: 2006
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3KtmQBRZUVEzH8epiGmjzv
+Hurt:
+   origin: United States
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Unkind
+      album: Vol. 1
+      artist: Hurt
+      year: 2006
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 7kppYKM3qUkD8BNTQu5eE1
+   -  track: Ten Ton Brick
+      album: Vol. II
+      artist: Hurt
+      year: 2007
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 4DPvNH37oJcv3LdMJMZGUi
+   -  track: Loded
+      album: Vol. II
+      artist: Hurt
+      year: 2007
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 5ZcEbVPW0s6de8k28hm5cw
+Institute:
+   origin: United Kingdom
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Bulletproof Skin
+      album: Distort Yourself
+      artist: Institute
+      year: 2005
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 1E5ftzZvJLOICYQ0oYDHID
+   -  track: When Animals Attack
+      album: Distort Yourself
+      artist: Institute
+      year: 2005
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3A1ktNp1AeUSefB6qfQnpQ
+   -  track: The Art of Walking (Bonus)
+      album: Distort Yourself
+      artist: Institute
+      year: 2005
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 1NdHmxKuAWbTeP5iK6aL7j
+Linkin Park:
+   origin: United States
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Cure for the Itch
+      album: Hybrid Theory
+      artist: Linkin Park
+      year: 2000
+      battle: FALSE
+      exploration: FALSE
+      boss: FALSE
+      special: TRUE
+      menu: FALSE
+      spotifyID: 3rpnfXSECgapxeGeRgUYqy
+   -  track: Don't Stay
+      album: Meteora
+      artist: Linkin Park
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 27gUeiai56GKF6TxvmPJut
+   -  track: Figure.09
+      album: Meteora
+      artist: Linkin Park
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3yE7LC2ZyNWsLRSXHb0J06
+   -  track: Hit the Floor
+      album: Meteora
+      artist: Linkin Park
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 5VYbLzAplnqPaGNpcf8qhZ
+   -  track: Lying from You
+      album: Meteora
+      artist: Linkin Park
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3BmjRmFTESgWZLPSVGp8aG
+   -  track: Nobody's Listening
+      album: Meteora
+      artist: Linkin Park
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 6O8Fqxnk5OlOivJHklfkPZ
+   -  track: One Step Closer
+      album: Hybrid Theory
+      artist: Linkin Park
+      year: 2000
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3K4HG9evC7dg3N0R9cYqk4
+   -  track: Papercut
+      album: Hybrid Theory
+      artist: Linkin Park
+      year: 2000
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 1Vej0qeQ3ioKwpI6FUbRv1
+   -  track: Points of Authority
+      album: Hybrid Theory
+      artist: Linkin Park
+      year: 2000
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 5egqKwgK5r5rvGD1LrtR7J
+Massive Attack:
+   origin: United Kingdom
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Dissolved Girl
+      album: Mezzanine
+      artist: Massive Attack
+      year: 1998
+      battle: FALSE
+      exploration: FALSE
+      boss: TRUE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 31R0X48zRfBUsrD8GKHiab
+Papa Roach:
+   origin: United States
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Thrown Away/Tight Rope
+      album: Infest
+      artist: Papa Roach
+      year: 2001
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 6LKj8Fqa28diZh8n0h93f6
+   -  track: Getting Away With Murder
+      album: Getting Away With Murder
+      artist: Papa Roach
+      year: 2004
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 40dHZ1HyySmu9FmTINRbqM
+   -  track: Do Or Die
+      album: Getting Away With Murder
+      artist: Papa Roach
+      year: 2004
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 7slHVKIG1a3FtBjxPYdkVR
+   -  track: Life Is A Bullet
+      album: lovehatetragedy
+      artist: Papa Roach
+      year: 2002
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 5F5Gr7sgJQP2Mxfi5Ui9bR
+   -  track: She Loves Me Not
+      album: lovehatetragedy
+      artist: Papa Roach
+      year: 2002
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 1eRgyfyizDWISeS99kwLNC
+Revis:
+   origin: United States
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Your Wall
+      album: Places For Breathing
+      artist: Revis
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 6KjGxORV80nXAOKAtwjNzq
+   -  track: Spin
+      album: Places For Breathing
+      artist: Revis
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 1UHWvH3Yew0MfvHPDZCG1K
+   -  track: Straight Jacket Labels
+      album: Places For Breathing
+      artist: Revis
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 705O7Jky1mutg2Il7NSO2o
+Rob Dougan:
+   origin: Australia
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Clubbed To Death 2
+      album: Furious Angels
+      artist: Rob Dougan
+      year: 1995
+      battle: FALSE
+      exploration: FALSE
+      boss: TRUE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 7bX9yVyhUC8M1Y3m8QCTj9
+   -  track: Clubbed to Death -Kurayamino Variation
+      album: Furious Angels
+      artist: Rob Dougan
+      year: 1995
+      battle: FALSE
+      exploration: FALSE
+      boss: TRUE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 0vSVDF2fHaxL2L9eEmRdAK
+Saosin:
+   origin: United States
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: I Keep Secrets Safe
+      album: In Search of Solid Ground
+      artist: Saosin
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 2jAZg043nuMGUcdtvmEIJE
+   -  track: Changing
+      album: In Search of Solid Ground
+      artist: Saosin
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 4C3osHVXn7trOxSBc8AuhX
+   -  track: Seven Years
+      album: Translating the Name
+      artist: Saosin
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 0C71NJD4BhvPopTwI7a8KV
+   -  track: Translating the Name
+      album: Translating the Name
+      artist: Saosin
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 2fsYDaUa76sRjlHxqh1sdx
+The Buttefly Effect:
+   origin: Australia
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Reach
+      album: Imago
+      artist: The Butterfly Effect
+      year: 2006
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3g7gEBqVdZqlVusJ3lkDE5
+   -  track: A Slow Descent
+      album: Imago
+      artist: The Butterfly Effect
+      year: 2006
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 3iEQCnKssH7Jz8iKsjkTpl
+   -  track: In These Hands
+      album: Final Conversation Of Kings
+      artist: The Butterfly Effect
+      year: 2008
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 068FlMkPkrB5m4hHC9ij4S
+   -  track: Black Lung
+      album: The Butterfly Effect
+      artist: The Butterfly Effect
+      year: 2001
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 16wtlsDZvPSPx9mXWVVdYq
+The Mayan Factor:
+   origin: United States
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Warflower
+      album: In Lake' Ch
+      artist: The Mayan Factor
+      year: 2003
+      battle: FALSE
+      exploration: FALSE
+      boss: FALSE
+      special: TRUE
+      menu: FALSE
+      spotifyID: 5DbjH6eXl5iSuBMj0IUWvP
+   -  track: Hopi Elders
+      album: 44
+      artist: The Mayan Factor
+      year: 2005
+      battle: FALSE
+      exploration: FALSE
+      boss: FALSE
+      special: TRUE
+      menu: FALSE
+      spotifyID: 6Z21CFIX0a857QBS21BJOE
+Three Days Grace:
+   origin: Canada
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: Burn
+      album: Three Days Grace
+      artist: Three Days Grace
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 4DmH8WEuvLOXpZ5D18XHJw
+   -  track: Scared
+      album: Three Days Grace
+      artist: Three Days Grace
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 0OWmBvdthZceFMOwB5EANd
+   -  track: Let You Down
+      album: Three Days Grace
+      artist: Three Days Grace
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 4kW5sp3Ah4hS5mkArOJSyJ
+   -  track: Drown
+      album: Three Days Grace
+      artist: Three Days Grace
+      year: 2003
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 2pVyreySMezcsVq0nmsIJ6
