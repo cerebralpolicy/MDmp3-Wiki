@@ -1,8 +1,7 @@
 ﻿{%- assign artists = site.data.tracklist -%}
 {%- assign footnotes = 0 -%}
-{% for row in artists | sort: row.artist%}
+{%- for row in artists | sort: row.artist -%}
 {%- assign flagURL = '"https://flagcdn.com/' | append: row.origin | append: '.svg"' -%}
-
 <div style="display:flex; align-items:center; width: 100%; height:28px">
     <h2 style="display: flex; line-height: 24px; align-self:auto; padding-bottom: 4px" id="{{row.artist}}">
         <div style="margin-right: 20; align-self:auto">
@@ -10,7 +9,7 @@
                 <div style="display:flex; width:100%; height:100%; clip-path: polygon(22.5% 8%, 95% 8%, 77.5% 92%, 5% 92%); align-items:center;"><img width="100%" src={{flagURL}}></div>
             </div>
         </div>
-        <div style="align-self: flex-start;">{{row.artist}}</div>
+        <div style="align-self: flex-start;"><a href="#{{row.artist}}">{{row.artist}}</a></div>
     </h2>
 </div>
 <hr>
@@ -32,7 +31,7 @@
         <td style="align-items: center;">
             {%- assign songID = song.spotifyID -%}
             {%- assign songLink = "https://open.spotify.com/embed/track/" | append: songID | append: "?utm_source=generator&theme=0" -%}
-            <iframe style="border-radius:12px" src="{{songLink}}" width="100%" height="48" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+            <iframe style="border-radius:12px" src="{{songLink}}" width="100%" height="96" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </td>
         <td>
             {%- if song.battle == true -%}
@@ -68,7 +67,7 @@
         </td>
     </tr>
     {%- assign context_icos = empty -%}
-    {%- endfor %}
+    {%- endfor -%}
 </table>
 <hr>
-{% endfor %}
+{%- endfor -%}
