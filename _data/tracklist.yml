@@ -152,6 +152,62 @@
       special: FALSE
       menu: FALSE
       spotifyID: 7f7daGXeo92qbkbhfRFqj7
+-  artist: Alexisonfire
+   origin: ca
+   website:
+   genre:
+   info:   
+   tracks:
+   -  track: This Could Be Anywhere in the World
+      album: Crisis
+      artist: Alexisonfire
+      year: 2006
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 4TnPmXU7KVmHZ51hXXn5Hv
+   -  track: Young Cardinals
+      album: Old Crows / Young Cardinals
+      artist: Alexisonfire
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 17H3w82ezx4QYYH6WnMmfr
+   -  track: Born and Raised
+      album: Old Crows / Young Cardinals
+      artist: Alexisonfire
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 2cMOVqd7pTOoj3yUHuxbj7
+   -  track: Rough Hands
+      album: Crisis
+      artist: Alexisonfire
+      year: 2006
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 7MLB8n8YqUV4cRV8pl70g2
+   -  track: The Northern
+      album: Old Crows / Young Cardinals
+      artist: Alexisonfire
+      year: 2009
+      battle: TRUE
+      exploration: TRUE
+      boss: FALSE
+      special: FALSE
+      menu: FALSE
+      spotifyID: 2VPv0LJafL4Gdp67ZWPBDV
 -  artist: ASHES dIVIDE
    origin: us
    website:
