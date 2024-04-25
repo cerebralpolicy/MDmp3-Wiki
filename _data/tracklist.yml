@@ -482,20 +482,20 @@
       album: Flyleaf
       artist: Flyleaf
       year: 2006
-      battle: TRUE
-      exploration: TRUE
+      battle: FALSE
+      exploration: FALSE
       boss: FALSE
-      special: FALSE
+      special: TRUE
       menu: FALSE
       spotifyID: 1zN6ynJG4PdR61YWv4PQ3Y
    -  track: I'm So Sick
       album: Flyleaf
       artist: Flyleaf
       year: 2006
-      battle: TRUE
-      exploration: TRUE
-      boss: FALSE
-      special: FALSE
+      battle: FALSE
+      exploration: FALSE
+      boss: TRUE
+      special: TRUE
       menu: FALSE
       spotifyID: 3FP8A246XpuafFofRhDlWG
 -  artist: Girugamesh
